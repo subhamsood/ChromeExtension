@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Passowrd Manager",
+    "description": "Stores frequently used passwords",
+    "version": "1.0",
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": "wonder-day-among-us-png-29.png"
+    }
+  }
